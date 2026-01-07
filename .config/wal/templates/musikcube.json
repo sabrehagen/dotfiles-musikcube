@@ -1,0 +1,130 @@
+{
+  "name": "wal",
+  "schemaVersion": 1,
+  "colors": {
+    "background": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "foreground": {
+      "hex": "#FFFFFF",
+      "palette": 7
+    },
+    "focused_border": {
+      "hex": "#FFFFFF",
+      "palette": 1
+    },
+    "text_focused": {
+      "hex": "#FFFFFF",
+      "palette": 3
+    },
+    "text_active": {
+      "hex": "#FFFFFF",
+      "palette": 5
+    },
+    "text_disabled": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "text_hidden": {
+      "hex": "#FFFFFF",
+      "palette": 6
+    },
+    "text_warning": {
+      "hex": "#FFFFFF",
+      "palette": 3
+    },
+    "text_error": {
+      "hex": "#FFFFFF",
+      "palette": 1
+    },
+    "overlay_background": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "overlay_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 15
+    },
+    "overlay_border": {
+      "hex": "#FFFFFF",
+      "palette": 7
+    },
+    "overlay_focused_border": {
+      "hex": "#FFFFFF",
+      "palette": 1
+    },
+    "shortcuts_background": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "shortcuts_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 15
+    },
+    "shortcuts_background_focused": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "shortcuts_foreground_focused": {
+      "hex": "#FFFFFF",
+      "palette": 15
+    },
+    "button_background_normal": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "button_foreground_normal": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "button_background_active": {
+      "hex": "#FFFFFF",
+      "palette": 1
+    },
+    "button_foreground_active": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "banner_background": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "banner_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 6
+    },
+    "list_header_background": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "list_header_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 7
+    },
+    "list_item_highlighted_background": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "list_item_highlighted_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 15
+    },
+    "list_item_active_background": {
+      "hex": "#FFFFFF",
+      "palette": 0
+    },
+    "list_item_active_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 6
+    },
+    "list_item_active_highlighted_background": {
+      "hex": "#FFFFFF",
+      "palette": 8
+    },
+    "list_item_active_highlighted_foreground": {
+      "hex": "#FFFFFF",
+      "palette": 15
+    }
+  }
+}
